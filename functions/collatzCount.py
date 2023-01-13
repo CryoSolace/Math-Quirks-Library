@@ -1,4 +1,4 @@
-def collatz(n,showSteps=True):
+def collatzCount(n,showSteps=True):
     steps = 0
     while n != 1:
         steps += 1
@@ -10,4 +10,5 @@ def collatz(n,showSteps=True):
 
     if showSteps:
         print(f"Steps: {steps}")
-
+        
+    return steps
