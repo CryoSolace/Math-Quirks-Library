@@ -3,10 +3,16 @@ EASY
 [/] - isEven/isOdd(n) // (joke function)
 [ ] - factorialIteration(n)/ factorialRecursion(n) //?
 [ ] - zellersCongruence(day, month, yearMod100, centuryZeroBased) // https://en.wikipedia.org/wiki/Zeller%27s_congruence
+[ ] - triangleNumbers(n)
+[ ] - fibonacciNumbers(n)
+[ ] - quadraticRoots(a, b, c)
+[ ] - quinticRoots(a, b, c, d, e, f) // (joke function, error)
+[ ] - endOfTime // (joke-ish function)
 
 MEDIUM
 [ ] - sqrtFastInverse(n)
 [ ] - cubicRoots(a, b, c, d) // why doesnt a quintic have solutions?
+[ ] - quarticRoots(a, b, c, d, e)
 
 INSANE
 [ ] - doublePendulum(angle1 = 180, angle2 = 180, length1 = 1, length2 = 1, mass1 = 1, mass2 = 1, gravity = 9.8) // ??? Too complex?
@@ -21,6 +27,8 @@ UNKNOWN
 [ ] - piRamanjuan, piR
 [ ] - piViete, piV
 [ ] - piChudnovsky, piCh
+[ ] - grahams
+[ ] - tree
 
 DNF 
 [ ] - 
