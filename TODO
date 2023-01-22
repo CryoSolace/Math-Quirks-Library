@@ -1,14 +1,26 @@
-[ ] - Mandelbrot
-[ ] - Double pendulum
-[ ] - Sieve of atkins, erastothenese
-[ ] - fast inverse square root
-[ ] - 
-[ ] - 
-[ ] - 
-[ ] - 
-[ ] - 
-[ ] - 
-[ ] - 
-[ ] - 
-[ ] - 
+
+EASY
+[ ] - isEven/isOdd(n) // (joke function)
+[ ] - factorialIteration(n)/ factorialRecursion(n) //?
+[ ] - zellersCongruence(day, month, yearMod100, centuryZeroBased) // https://en.wikipedia.org/wiki/Zeller%27s_congruence
+
+MEDIUM
+[ ] - sqrtFastInverse(n)
+[ ] - cubicRoots(a, b, c, d) // why doesnt a quintic have solutions?
+
+INSANE
+[ ] - doublePendulum(angle1 = 180, angle2 = 180, length1 = 1, length2 = 1, mass1 = 1, mass2 = 1, gravity = 9.8) // ??? Too complex?
+[ ] - mandelbrot(resolution=1)
+
+UNKNOWN
+[ ] - primeSieveAtkins, primeSieveA(n)
+[ ] - primeSieveEras, primeSieveE(n)
+[ ] - primeWillans(n) // https://www.youtube.com/watch?v=j5s0h42GfvM
+[ ] - piNewton, piN
+[ ] - piCeulen, piCe
+[ ] - piRamanjuan, piR
+[ ] - piViete, piV
+[ ] - piChudnovsky, piCh
+
+DNF 
 [ ] - 
