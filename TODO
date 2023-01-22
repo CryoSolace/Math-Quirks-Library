@@ -1,6 +1,6 @@
 
 EASY
-[ ] - isEven/isOdd(n) // (joke function)
+[/] - isEven/isOdd(n) // (joke function)
 [ ] - factorialIteration(n)/ factorialRecursion(n) //?
 [ ] - zellersCongruence(day, month, yearMod100, centuryZeroBased) // https://en.wikipedia.org/wiki/Zeller%27s_congruence
 
